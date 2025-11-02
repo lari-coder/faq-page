@@ -12,12 +12,13 @@ Página de perguntas frequentes (FAQ) responsiva criada com HTML5 e CSS3.
 🎯 Objetivo<br>
 Praticar layouts responsivos usando mobile-first e media queries.
 
-🔗 Demo<br>
-[Ver projeto ao vivo] https://lari-coder.github.io/faq-page/index.html
-
 📸 Preview <br>
-Mobile 
-[Preview mobile](mobile-preview.jpg)
 
-Tablet
-[Preview tablet](tablet-preview.png)
+[Mobile preview](mobile-preview.jpg)
+
+[Tablet preview](tablet-preview.png)
+
+[Desktop preview](desktop-preview.png)
+
+🔗 Demo<br>
+[Ver projeto ao vivo](https://lari-coder.github.io/faq-page/index.html)
