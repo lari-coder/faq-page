@@ -16,6 +16,8 @@ Praticar layouts responsivos usando mobile-first e media queries.
 [Ver projeto ao vivo] https://lari-coder.github.io/faq-page/index.html
 
 📸 Preview <br>
+Mobile 
+[Preview mobile](mobile-preview.jpg)
 
-## Mobile 
-[Visualização tela mobile](imagens/mobile-preview.jpg)
+Tablet
+[Preview tablet](tablet-preview.png)
