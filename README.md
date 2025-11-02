@@ -1,22 +1,21 @@
-# faq-page
+# FAQ Page
 
 📝 Descrição <br>
-Página de perguntas frequentes de um site.
+Página de perguntas frequentes (FAQ) responsiva criada com HTML5 e CSS3.
 
 🚀 Tecnologias
 - HTML5
 - CSS3
-- Design responsivo
+- Flexbox
+- Media Queries
 
 🎯 Objetivo<br>
-Nesse projeto, utilizei media query para deixar a página responsiva para telas diferentes utilizando o metodo mobile first.
+Praticar layouts responsivos usando mobile-first e media queries.
 
 🔗 Demo<br>
-...
+[Ver projeto ao vivo] https://lari-coder.github.io/faq-page/index.html
 
-📸 Screenshot<br>
-...
+📸 Preview <br>
 
-
-
-
+## Mobile 
+[Visualização tela mobile](imagens/mobile-preview.jpg)
