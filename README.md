@@ -1,6 +1,6 @@
 # faq-page
 
-📝 Descrição 
+📝 Descrição <br>
 Página de perguntas frequentes de um site.
 
 🚀 Tecnologias
@@ -8,13 +8,13 @@ Página de perguntas frequentes de um site.
 - CSS3
 - Design responsivo
 
-🎯 Objetivo
+🎯 Objetivo<br>
 Nesse projeto, utilizei media query para deixar a página responsiva para telas diferentes utilizando o metodo mobile first.
 
-🔗 Demo
+🔗 Demo<br>
 ...
 
-📸 Screenshot
+📸 Screenshot<br>
 ...
 
 
